@@ -1,6 +1,6 @@
 # Maestro
 
-A lightweight Windows system-tray utility that provides global hotkeys for controlling Spotify playback and per-app volume — no window switching required.
+A lightweight Windows system-tray utility that provides global hotkeys for controlling Spotify playback and per-app volume.
 
 ## Features
 
