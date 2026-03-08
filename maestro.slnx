@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="maestro.vcxproj" Id="191c6d0c-cbf7-4da3-9346-7fdf9944cb81" />
+</Solution>

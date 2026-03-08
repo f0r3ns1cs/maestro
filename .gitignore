@@ -1,0 +1,41 @@
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+*.tlog
+*.recipe
+*.idb
+*.lastbuildstate
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+ipch/
+[Oo]ut/
+slnx.sqlite
+ProjectSettings.json
+VSWorkspaceState.json
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
